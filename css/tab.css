@@ -1,0 +1,203 @@
+@media  (min-width: 768px) and (max-width: 991.98px) {
+
+    .head_slider_text {
+        left: 0px;
+        top: 110px;
+      }
+      .rbox {
+        top: -200px;
+      }
+      .rbox-close {
+        right: 0px !important;
+      }
+      .rbox-content img, .rbox-content video{
+        max-width: 90% !important;
+      }
+      .cause_list li{
+        font-size: 13PX;
+      }
+      .cause_list ul{
+        padding-left: 10px;
+      }
+      .d_ultra_gel{
+        height: auto;
+      }
+      .d_ultra_gell .col-lg-5 img {
+        width: 40%;
+        margin: auto;
+        display: block;
+      }
+      .ultra_gel_list {
+        padding-bottom: 30px;
+      }
+      .scar_types .scar_under_leaf {
+        margin-bottom: 30px;
+      }
+      .scartype_one {
+        margin-top: 30px;
+      }
+      .keloid-scar {
+        margin-top: 30px;
+      }
+      .scartype_two ul {
+        padding-left: 20px;
+      }
+      .dm_box_1 {
+        padding: 13px 13px;
+        width: 331px;  
+    }
+      .derma_list .col-lg-1{
+        display: none;
+      }
+      .scars-video {
+        margin-top: 40px;
+      }
+      .d_benefits br{
+        display: none;
+      }
+      .bg-video img{
+        display: none !important;
+        width: 115vw !important;
+      }
+      .d_benefits img {
+        width: 60%;
+        margin: auto;
+        display: block;
+        /* transform: translateX(-70px); */
+      }
+      .scars-video img {
+        width: 80% !important;
+      }
+      .rbox-video-autoplay{
+        display: inline-block;
+        max-width: 80% !important;
+      }
+      .d_benefits {
+        padding-bottom: 40px;
+        overflow-x: hidden;
+    }
+    .scar_type_slider .col-lg-6:nth-child(1) {
+        padding: 21px 29px;
+    }
+    .slider_info br{
+        display: none;
+    }
+    .scar_type_slider p {
+        font-size: 10px;
+    }
+    .scar_type_slider .owl-nav{
+        bottom: -36px;
+    position: absolute;
+    left: 0px ;
+    right: 0px;
+    }
+    .scar_type_slider .owl-next {
+        right: 280px;
+    }
+    .scar_type_slider .owl-prev {
+        left: 280px;
+    }
+    .scar_type_slider .owl-dots{
+        bottom: 39px;
+left: 15px;  
+    }
+    .other_treat_opt {
+        margin-top: 40px;
+    }
+    .other_treat_opt .col-lg-4 img{
+        width: 40% !important;
+        display: block;
+        margin: auto;
+    }
+    .how_to_use .col-lg-5 {
+        margin-top: -5px;
+    }
+    .how_to_use h2 {
+        margin-bottom: 20px;
+    }
+    #three::after {
+    top: 375px;
+    }
+    #two::after {
+        top: 245px;
+    }
+    #four::after {
+        top: 495px;
+    }
+    #five::after{
+        top: 623px;
+    }
+    .how_to_use .col-lg-2 img {
+        width: 50% !important;
+    margin-right: -40px;
+    float: right;
+    }
+    footer{
+        padding-bottom: 10px;
+    }
+    footer .col-lg-6:nth-child(2) img {
+            width: 16%;
+        }
+        footer .row:nth-child(3){
+            flex-direction: column !important;
+        }
+        .social-media {
+            padding-top: 14px;
+            padding-bottom: 20px;
+          }
+          .d_benefits .col-lg-6 {
+            transform: translateX(0px);
+          }
+          .d_benefits .col-lg-5 {
+            transform: translateX(0px);
+          }
+          .scar_types h3 {
+            font-size: 28px;
+          }
+}
+
+@media  (min-width: 992px) and (max-width: 1299.98px) {
+
+
+    footer{
+        padding-bottom: 10px;
+    }
+    .head_slider_text {
+        position: absolute;
+        top: 180px;
+    }
+    .manage_box::after {
+        height: 244px;
+    }
+    .ultra_gel_list {
+        padding: 10px 0px;
+      }
+      .d_ultra_gell {
+        height: 420px;
+      }
+      .scartype_one {
+        margin-top: 17px;
+      }
+      .scartype_two  {
+        margin-top: -2px;
+      }
+      .scartype_two br {
+        display: none;
+      }
+      .scars-video img {
+        width: 740px;
+        margin-top: 105px;
+      }
+      .slider_info br {
+        display: none;
+      }
+      .scar_type_slider .owl-nav .owl-prev {
+        top: 48%;
+      }
+      .other_treat_opt .col-lg-4 {
+        margin-top: 0px;
+      }
+      .scar_type_slider .owl-nav .owl-next {
+        top: 48%;
+      }
+}
